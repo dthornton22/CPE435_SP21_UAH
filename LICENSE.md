@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2021 dthornton22
+Copyright (c) 2021 David Thornton
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
